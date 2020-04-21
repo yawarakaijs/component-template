@@ -1,5 +1,5 @@
 {
-  "name": "@yawarakaijs/yawarakai-template",
+  "name": "yawarakai-component",
   "version": "0.0.1",
   "description": "Yawarakai component template",
   "main": "index.js",
