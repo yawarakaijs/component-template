@@ -1,0 +1,24 @@
+{
+  "name": "yawarakai-component",
+  "version": "0.0.1",
+  "description": "Yawarakai component template",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yawarakaijs/yawarakai-template.git"
+  },
+  "keywords": [
+    "yawarakai"
+  ],
+  "author": "Author",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/yawarakaijs/yawarakai-template/issues"
+  },
+  "homepage": "https://github.com/yawarakaijs/yawarakai-template#readme",
+  "dependencies": {
+  }
+}
